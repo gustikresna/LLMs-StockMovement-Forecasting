@@ -16,10 +16,10 @@ This study investigates the utilisation of news data to forecast stock movements
 
 The notebooks are structured as follows:
 
-* Data Collection and Pre-processing
+* **Data Collection and Pre-processing**
   1. Data_Collection_and_Preparation.ipynb
      
-* LLMs Modelling
+* **LLMs Modelling**
   *  Scenario 1: Pre-Trained Models
       1. Generate_Embeddings_Pre_Trained_Models.ipynb
       2. Training_&\_Prediction_(Pre_Trained).ipynb
@@ -28,15 +28,15 @@ The notebooks are structured as follows:
       1. Learning_Hyperparameter_Optimisation.ipynb
       2. Training_&\_Prediction_(Fine_Tuned).ipynb
 
-* Portfolio Analysis
+* **Portfolio Analysis**
   1. Portfolio_Analysis_Pre_Trained.ipynb
   2. Portfolio_Analysis_Fine_Tuned.ipynb
 
-* Portfolio Analysis + Transaction Cost
+* **Portfolio Analysis + Transaction Cost**
   1. Portfolio_Analysis_+_Transaction_Cost_Pre_Trained.ipynb
   2. Portfolio_Analysis_+_Transaction_Cost_Fine_Tuned.ipynb
 
-* EDA
+* **EDA**
   1. Data_Visualisation_ERP.ipynb
 
 ## Authors
