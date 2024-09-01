@@ -20,11 +20,11 @@ The notebooks are structured as follows:
   1. Data_Preparation.ipynb
      
 * **LLMs Modelling**
-  *  [Scenario 1: Pre-Trained Models](notebooks/llm-modelling/scenario1-pre-trained/)
+  *  [Scenario 1: Pre-Trained Models](notebooks/llm-modelling /scenario1-pre-trained)
       1. Generate_Embeddings_Pre_Trained_Models.ipynb
       2. Training_&\_Prediction_(Pre_Trained).ipynb
      
-  * [Scenario 2: Fine-Tuned Models](notebooks/llm-modelling/scenario2-finetuned/)
+  * [Scenario 2: Fine-Tuned Models](notebooks/llm-modelling /scenario2-finetuned/)
       1. Learning_Hyperparameter_Optimisation.ipynb
       2. Training_&\_Prediction_(Fine_Tuned).ipynb
 
