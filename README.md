@@ -4,7 +4,7 @@ LLMs for Forecasting Stock Movemment in Healthcare Sector
 
 ## Description
 
-This study investigates the utilisation of news data to forecast stock movements in the healthcare sector by employing Large Language Models (LLMs). More precisely, it explores the use of pre-trained and fine-tuned LLMs to forecast the weekly movement of stock prices for the top 25 tickers in this sector. The compared models include BERT, RoBERTa, DistilBERT, DistilRoBERTa, and FinBERT. 
+This study investigates the utilisation of news data to forecast stock movements in the US stock market's healthcare sector by employing Large Language Models (LLMs). More precisely, it explores the use of pre-trained and fine-tuned LLMs to forecast the weekly movement of stock prices for the top 25 tickers in this sector. The compared models include BERT, RoBERTa, DistilBERT, DistilRoBERTa, and FinBERT. 
 
 ## Getting Started
 
