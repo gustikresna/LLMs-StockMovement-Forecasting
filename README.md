@@ -11,6 +11,7 @@ This study investigates the utilisation of news data to forecast stock movements
 ### Dependencies
 
 * WRDS (Wharton Research Data Services) Access: Required for data retrieval.
+* Google Drive Account: Required to store the dataset and results
 
 ### Executing program
 
