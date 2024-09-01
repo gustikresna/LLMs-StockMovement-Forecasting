@@ -17,7 +17,7 @@ This study investigates the utilisation of news data to forecast stock movements
 The notebooks are structured as follows:
 
 * **Data Collection and Pre-processing**
-  1. Data_Collection_and_Preparation.ipynb
+  1. Data_Preparation.ipynb
      
 * **LLMs Modelling**
   *  Scenario 1: Pre-Trained Models
