@@ -20,23 +20,23 @@ The notebooks are structured as follows:
   1. Data_Preparation.ipynb
      
 * **LLMs Modelling**
-  *  Scenario 1: Pre-Trained Models
+  *  [Scenario 1: Pre-Trained Models](notebooks/llm-modelling/scenario1-pre-trained/)
       1. Generate_Embeddings_Pre_Trained_Models.ipynb
       2. Training_&\_Prediction_(Pre_Trained).ipynb
      
-  * Scenario 2: Fine-Tuned Models
+  * [Scenario 2: Fine-Tuned Models](notebooks/llm-modelling/scenario2-finetuned/)
       1. Learning_Hyperparameter_Optimisation.ipynb
       2. Training_&\_Prediction_(Fine_Tuned).ipynb
 
-* **Portfolio Analysis**
+* **[Portfolio Analysis](notebooks/portfolio-analysis)**
   1. Portfolio_Analysis_Pre_Trained.ipynb
   2. Portfolio_Analysis_Fine_Tuned.ipynb
 
-* **Portfolio Analysis + Transaction Cost**
+* **[Portfolio Analysis + Transaction Cost](notebooks/portfolio-analysis-transaction-cost)**
   1. Portfolio_Analysis_+_Transaction_Cost_Pre_Trained.ipynb
   2. Portfolio_Analysis_+_Transaction_Cost_Fine_Tuned.ipynb
 
-* **EDA**
+* **[EDA](notebooks/eda/)**
   1. Data_Visualisation_ERP.ipynb
 
 ## Authors
